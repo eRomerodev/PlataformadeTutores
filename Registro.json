@@ -1,0 +1,408 @@
+[
+    {
+        "password": "LordEmi12",
+        "descripcion": "Hola! Soy Emi, me gusta mucho mate y ping pong. Mi comida favorita es la lasaña, espero ayudarlos!",
+        "nombre_completo": "Diego Emiliano Romero Castillo",
+        "correo": "diego.romero@keyinstitute.edu.sv",
+        "carnet": "KEY_000056",
+        "carrera": "Ingeniería Mecatrónica y Robótica",
+        "ciclo": 1,
+        "rol": "Tutor",
+        "materias": [
+            "Física aplicada I (F10012)",
+            "Cálculo diferencial de una variable (MA10013)"
+        ],
+        "horarios": [
+            {
+                "dia": "Lunes",
+                "inicio": "16:00",
+                "fin": "17:00"
+            },
+            {
+                "dia": "Miércoles",
+                "inicio": "16:00",
+                "fin": "17:00"
+            },
+            {
+                "dia": "Viernes",
+                "inicio": "16:00",
+                "fin": "17:00"
+            }
+        ],
+        "sesiones": [
+            {
+                "tutor": "Diego Emiliano Romero Castillo",
+                "tutorado": "Emilio Josué Martínez Aguilera",
+                "materia": "física aplicada i (f10012)",
+                "fecha": "07/07/2025",
+                "dia": "Lunes",
+                "inicio": "16:00",
+                "fin": "17:00",
+                "modalidad": "presencial"
+            },
+            {
+                "tutor": "Diego Emiliano Romero Castillo",
+                "tutorado": "Roberto Carlos Iglesias Álvarez",
+                "materia": "cálculo diferencial de una variable (ma10013)",
+                "fecha": "03/07/2025",
+                "dia": "Lunes",
+                "inicio": "16:00",
+                "fin": "17:00",
+                "modalidad": "presencial",
+                "asistencia": true,
+                "duracion": 60,
+                "calificacion": 5,
+                "comentario": "Puso atención"
+            }
+        ]
+    },
+    {
+        "password": "David123",
+        "descripcion": "Soy deivi jaja",
+        "nombre_completo": "David Alejandro Aguilar Aguilar",
+        "correo": "david.aguilar@keyinstitute.edu.sv",
+        "carnet": "KEY_00001",
+        "carrera": "Ingeniería Mecatrónica y Robótica",
+        "ciclo": 1,
+        "rol": "Tutor",
+        "materias": [
+            "Física aplicada I (F10012)",
+            "Cálculo diferencial de una variable (MA10013)"
+        ],
+        "horarios": [
+            {
+                "dia": "Martes",
+                "inicio": "12:00",
+                "fin": "13:00"
+            },
+            {
+                "dia": "Jueves",
+                "inicio": "12:00",
+                "fin": "13:00"
+            }
+        ],
+        "sesiones": [
+            {
+                "tutor": "David Alejandro Aguilar Aguilar",
+                "tutorado": "Emilio Josué Martínez Aguilera",
+                "materia": "cálculo diferencial de una variable (ma10013)",
+                "fecha": "10/07/2025",
+                "dia": "Jueves",
+                "inicio": "12:00",
+                "fin": "13:00",
+                "modalidad": "presencial"
+            }
+        ]
+    },
+    {
+        "password": "Marro123",
+        "descripcion": "Soy marro jeje",
+        "nombre_completo": "Andrés Arturo Marroquín Soto",
+        "correo": "andres.marroquin@keyinstitute.edu.sv",
+        "carnet": "KEY_000020",
+        "carrera": "Ingeniería Mecatrónica y Robótica",
+        "ciclo": 2,
+        "rol": "Tutor",
+        "materias": [
+            "Física aplicada I (F10012)",
+            "Cálculo diferencial de una variable (MA10013)",
+            "Fundamentos de programación (TC10014)"
+        ],
+        "horarios": [
+            {
+                "dia": "Lunes",
+                "inicio": "17:00",
+                "fin": "18:00"
+            },
+            {
+                "dia": "Jueves",
+                "inicio": "17:00",
+                "fin": "18:00"
+            },
+            {
+                "dia": "Viernes",
+                "inicio": "17:00",
+                "fin": "18:00"
+            }
+        ],
+        "sesiones": []
+    },
+    {
+        "password": "Elias123",
+        "descripcion": "Soy elias jiji",
+        "nombre_completo": "Elías Josué Ventura Villatoro",
+        "correo": "elias.ventura@keyinstitute.edu.sv",
+        "carnet": "KEY_00004",
+        "carrera": "Ingeniería Industrial y Manufactura Avanzada",
+        "ciclo": 3,
+        "rol": "Tutor",
+        "materias": [
+            "Física aplicada I (F10012)",
+            "Cálculo diferencial de una variable (MA10013)",
+            "Fundamentos de la programación (TC10014)",
+            "Física aplicada II (F10027)",
+            "Cálculo integral de una variable (MA10028)",
+            "Programación orientada a objetos (TC10029)",
+            "Física aplicada III (F100312)"
+        ],
+        "horarios": [
+            {
+                "dia": "Lunes",
+                "inicio": "08:00",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Martes",
+                "inicio": "08:00",
+                "fin": "10:00"
+            }
+        ],
+        "sesiones": []
+    },
+    {
+        "password": "Camila123",
+        "descripcion": "Soy camila akdjakjakj",
+        "nombre_completo": "Andrea Camila Jovel Jovel",
+        "correo": "andrea.jovel@keyinstitute.edu.sv",
+        "carnet": "KEY_000081",
+        "carrera": "Ingeniería Mecatrónica y Robótica",
+        "ciclo": 1,
+        "rol": "Tutor",
+        "materias": [
+            "Física aplicada I (F10012)"
+        ],
+        "horarios": [
+            {
+                "dia": "Martes",
+                "inicio": "18:00",
+                "fin": "19:00"
+            },
+            {
+                "dia": "Miércoles",
+                "inicio": "18:00",
+                "fin": "19:00"
+            }
+        ],
+        "sesiones": []
+    },
+    {
+        "password": "Enrique123",
+        "descripcion": "Soy enrique ojsjfjs",
+        "nombre_completo": "Enrique Adonay Hernández Rafaelano",
+        "correo": "enrique.hernandez@keyinstitute.edu.sv",
+        "carnet": "KEY_000010",
+        "carrera": "Ingeniería y Ciencias de la Computación Integradas",
+        "ciclo": 2,
+        "rol": "Tutor",
+        "materias": [
+            "Cálculo diferencial de una variable (MA10013)",
+            "Fundamentos de la programación (TC10014)",
+            "Cálculo integral de una variable (MA10028)",
+            "Programación orientada a objetos (H10029)"
+        ],
+        "horarios": [
+            {
+                "dia": "Jueves",
+                "inicio": "07:00",
+                "fin": "09:00"
+            }
+        ],
+        "sesiones": []
+    },
+    {
+        "password": "Joshua123",
+        "descripcion": "SOy joshua KAJDKJA",
+        "nombre_completo": "Joshua Gabriel Garcilazo Avendaño",
+        "correo": "joshua.garcilazo@keyinstitute.edu.sv",
+        "carnet": "KEY_000090",
+        "carrera": "Ingeniería y Ciencias de la Computación Integradas",
+        "ciclo": 1,
+        "rol": "Tutor",
+        "materias": [
+            "Física aplicada I (F10012)",
+            "Cálculo diferencial de una variable (MA10013)",
+            "Fundamentos de la programación (TC10014)"
+        ],
+        "horarios": [
+            {
+                "dia": "Lunes",
+                "inicio": "15:00",
+                "fin": "17:00"
+            },
+            {
+                "dia": "Martes",
+                "inicio": "15:00",
+                "fin": "17:00"
+            },
+            {
+                "dia": "Viernes",
+                "inicio": "15:00",
+                "fin": "17:00"
+            }
+        ],
+        "sesiones": [
+            {
+                "tutor": "Joshua Gabriel Garcilazo Avendaño",
+                "tutorado": "Emilio Josué Martínez Aguilera",
+                "materia": "Fundamentos de la programación (TC10014)",
+                "fecha": "22/07/2025",
+                "dia": "Martes",
+                "inicio": "15:00",
+                "fin": "17:00",
+                "modalidad": "presencial"
+            },
+            {
+                "tutor": "Joshua Gabriel Garcilazo Avendaño",
+                "tutorado": "Arlette Izel Catalán Bolaños",
+                "materia": "fundamentos de la programación (tc10014)",
+                "fecha": "11/07/2025",
+                "dia": "Viernes",
+                "inicio": "15:00",
+                "fin": "17:00",
+                "modalidad": "presencial"
+            }
+        ]
+    },
+    {
+        "password": "Emilio123",
+        "descripcion": "Soy emilio aa",
+        "nombre_completo": "Emilio Josué Martínez Aguilera",
+        "correo": "emilio.martinez@keyinstitute.edu.sv",
+        "carnet": "KEY_000041",
+        "carrera": "Ingeniería Mecatrónica y Robótica",
+        "ciclo": 1,
+        "rol": "Tutorado",
+        "materias": [
+            "Cálculo diferencial de una variable (MA10013)"
+        ],
+        "horarios": [
+            {
+                "dia": "Lunes",
+                "inicio": "16:00",
+                "fin": "17:00"
+            },
+            {
+                "dia": "Miércoles",
+                "inicio": "16:00",
+                "fin": "17:00"
+            },
+            {
+                "dia": "Viernes",
+                "inicio": "16:00",
+                "fin": "17:00"
+            }
+        ],
+        "sesiones": [
+            {
+                "tutor": "Diego Emiliano Romero Castillo",
+                "tutorado": "Emilio Josué Martínez Aguilera",
+                "materia": "física aplicada i (f10012)",
+                "fecha": "07/07/2025",
+                "dia": "Lunes",
+                "inicio": "16:00",
+                "fin": "17:00",
+                "modalidad": "presencial"
+            },
+            {
+                "tutor": "David Alejandro Aguilar Aguilar",
+                "tutorado": "Emilio Josué Martínez Aguilera",
+                "materia": "cálculo diferencial de una variable (ma10013)",
+                "fecha": "10/07/2025",
+                "dia": "Jueves",
+                "inicio": "12:00",
+                "fin": "13:00",
+                "modalidad": "presencial"
+            }
+        ]
+    },
+    {
+        "password": "Lazo123",
+        "descripcion": "Soy lazoooo",
+        "nombre_completo": "Rodrigo Alberto Lazo Guifarro",
+        "correo": "rodrigo.lazo@keyinstitute.edu.sv",
+        "carnet": "KEY_000037",
+        "carrera": "Ingeniería Mecatrónica y Robótica",
+        "ciclo": 1,
+        "rol": "Tutorado",
+        "materias": [
+            "Física aplicada I (F10012)",
+            "Cálculo diferencial de una variable (MA10013)"
+        ],
+        "horarios": [],
+        "sesiones": []
+    },
+    {
+        "password": "2918",
+        "descripcion": "Soy penoso",
+        "nombre_completo": "Roberto Carlos Iglesias Álvarez",
+        "correo": "roberto.iglesias@keyinstitute.edu.sv",
+        "carnet": "KEY_000034",
+        "carrera": "Ingeniería y Ciencias de la Computación Integradas",
+        "ciclo": 1,
+        "rol": "Tutorado",
+        "materias": [
+            "Introducción a la ingeniería (IN10001)",
+            "Física aplicada I (F10012)",
+            "Cálculo diferencial de una variable (MA10013)",
+            "Fundamentos de la programación (TC10014)",
+            "Desarrollo personal (H10015)"
+        ],
+        "horarios": [],
+        "sesiones": [
+            {
+                "tutor": "Diego Emiliano Romero Castillo",
+                "tutorado": "Roberto Carlos Iglesias Álvarez",
+                "materia": "cálculo diferencial de una variable (ma10013)",
+                "fecha": "03/07/2025",
+                "dia": "Lunes",
+                "inicio": "16:00",
+                "fin": "17:00",
+                "modalidad": "presencial"
+            }
+        ]
+    },
+    {
+        "password": "Adri123",
+        "descripcion": "KFJKZ",
+        "nombre_completo": "Adriana María Castillo Ramírez",
+        "correo": "adriana.castillo@keyinstitute.edu.sv",
+        "carnet": "KEY_00003",
+        "carrera": "Ingeniería Industrial y Manufactura Avanzada",
+        "ciclo": 1,
+        "rol": "Tutorado",
+        "materias": [
+            "Física aplicada I (F10012)"
+        ],
+        "horarios": [],
+        "sesiones": []
+    },
+    {
+        "password": "Arlette123",
+        "descripcion": "Holaa",
+        "nombre_completo": "Arlette Izel Catalán Bolaños",
+        "correo": "arlette.catalan@keyinstitute.edu.sv",
+        "carnet": "KEY_0000012",
+        "carrera": "Ingeniería y Ciencias de la Computación Integradas",
+        "ciclo": 1,
+        "rol": "Tutorado",
+        "materias": [
+            "Cálculo diferencial de una variable (MA10013)",
+            "Fundamentos de la programación (TC10014)"
+        ],
+        "horarios": [],
+        "sesiones": [
+            {
+                "tutor": "Joshua Gabriel Garcilazo Avendaño",
+                "tutorado": "Arlette Izel Catalán Bolaños",
+                "materia": "fundamentos de la programación (tc10014)",
+                "fecha": "11/07/2025",
+                "dia": "Viernes",
+                "inicio": "15:00",
+                "fin": "17:00",
+                "modalidad": "presencial",
+                "calificacion": 4,
+                "comentario": "No me dio confianza de preguntarle por algunos detalles"
+            }
+        ]
+    }
+]
