@@ -4,3 +4,11 @@ La Plataforma es una solución informática desarrollada en Python con el objeti
 El proyecto contempla diferentes perfiles de usuario (Tutor y Tutorado), y está diseñado para facilitar el seguimiento de las tutorías de manera clara, funcional y segura. Toda la información se almacena en un archivo JSON que permite gestionar datos de usuarios, sesiones programadas y disponibilidad horaria. Gracias a este enfoque estructurado, se optimiza el uso del tiempo y se fomenta una cultura de aprendizaje colaborativo entre estudiantes. La plataforma también puede adaptarse a nuevas funcionalidades como historial de sesiones, calificación de tutores o integración con plataformas web en el futuro.
 
 Este trabajo fue desarrollado por un equipo de cinco estudiantes, cada uno con un rol definido, pero todos involucrados activamente en cada etapa del proceso. Más allá del desarrollo técnico, este proyecto ha impulsado nuestras habilidades de trabajo en equipo, toma de decisiones, organización y comunicación, demostrando cómo la tecnología puede convertirse en una herramienta poderosa para resolver necesidades reales dentro de la comunidad estudiantil.
+
+
+Dentro de este repositorio se encuentra:
+1- Un README
+2- "Plataforma.py" el cual contiene el código de la plataforma ejecutable en Python.
+3- "Registro.json" el cual contiene los datos de los tutores y tutorados de prueba en Key.
+
+Se hizo uso de librerías JSON, RE y DATETIME. Así como ChatGPT para la optimización del código y debugging.
